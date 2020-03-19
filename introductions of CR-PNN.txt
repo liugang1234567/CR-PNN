@@ -1,0 +1,24 @@
+bilibilitv number:    LG_AI_striver    
+Welcome you to pay attention to "LG_AI_striver". I will share idea bout AI in the future.
+
+
+Training function
+
+function [net]=TLCnet(X,Y,nl,m,c)
+% X:input
+% Y:output(label)
+% nl:number of layers
+% m:number of samples for one batch
+% c: training number
+
+
+Testing function
+
+function [Y]=test_TLCnet(net,Xm)
+% Xm:input
+
+
+@@@
+Rencently，I submitted a manuscript for CR-PNN. 
+If you're a editor or reviewer, I am very glad of your asking us for password .  Open for dear you Only, before its publication.
+You can contact the corresponding author of the article Jing Wang (My tutor, an professor of Institute of Robotics and Intelligent Systems, Xi'an Jiao Tong university. e-mail: wangpele@gmail.com ) or me (Gang Liu,a doctoral student of Institute of Robotics and Intelligent Systems, School of Mechanical Engineering, Xi'an Jiao Tong University.e-mail: lg_7777777@stu.xjtu.edu.cn).
