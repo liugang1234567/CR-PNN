@@ -10,7 +10,7 @@ PS：To be more rigorous, we corrected little details in fig.2 and the graphic a
 
 @@@ Some minor mistakes
    1) "CR-PNN", "RC-PNN" and "C-R PNN" all represent the controllable and readable polynomial neuron network (CR-PNN).
-   2) "SMR" in the paper represent "SNR".
+   2) "SMR" in the paper represents "SNR".
 
 I hope you keep safe and sound forever. Take care of yourself . When you go out, remember to wear a mask.  (⑉• •⑉)‥♡
     
