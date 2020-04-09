@@ -6,12 +6,12 @@ Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG] 
 arXiv:   https://arxiv.org/abs/2004.03955
 
 @@@
-PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶   (New:https://arxiv.org/abs/2004.03955)
-
+PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶  
 @@@ Some minor mistakes
    1) "CR-PNN", "RC-PNN" and "C-R PNN" all represent the controllable and readable polynomial neuron network (CR-PNN).
    2) "SMR" in the paper represents "SNR".
 
+ (We recommend downloading the new version :https://arxiv.org/abs/2004.03955)
 I hope you keep safe and sound forever. Take care of yourself . When you go out, remember to wear a mask.  (⑉• •⑉)‥♡
     
 
