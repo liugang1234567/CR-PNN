@@ -5,9 +5,16 @@ To show CR-PNN as soon as possible, we "threw" it in arXiv.
 Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG]    (or arXiv:2004.03955v1 [cs.LG] for this version)
 arXiv:   https://arxiv.org/abs/2004.03955
 
-%%%
-bilibilitv number:    LG_strive_for_AI    
-Welcome you to pay attention to "LG_strive_for_AI". I will share idea bout AI in the future.  
+@@@
+PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶   (New:https://arxiv.org/abs/2004.03955)
+
+@@@ Some minor mistakes
+   1) "CR-PNN", "RC-PNN" and "C-R PNN" all represent the controllable and readable polynomial neuron network (CR-PNN).
+   2) "SMR" in the paper represent "SNR".
+
+I hope you keep safe and sound forever. Take care of yourself . When you go out, remember to wear a mask.  (⑉• •⑉)‥♡
+    
+
 
 %%%
 Training function
@@ -29,10 +36,4 @@ function [Y]=test_TLCnet(net,Xm)
 read the model
 
 Read_PNN
-% read the model
-
-
-@@@
-PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶   (New:https://arxiv.org/abs/2004.03955)
-I hope you keep safe and sound forever. Take care of yourself . When you go out, remember to wear a mask.  (⑉• •⑉)‥♡
-       
+% read the model   
