@@ -1,7 +1,15 @@
-bilibilitv number:    LG_AI_striver    
-Welcome you to pay attention to "LG_AI_striver". I will share idea bout AI in the future.
 
+Password:C-R PNN_LG_for_AI
 
+To show C-R PNN as soon as possible, we "threw" it in arXiv.
+Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG]    (or arXiv:2004.03955v1 [cs.LG] for this version)
+arXiv:   https://arxiv.org/abs/2004.03955
+
+%%%
+bilibilitv number:    LG_strive_for_AI    
+Welcome you to pay attention to "LG_strive_for_AI". I will share idea bout AI in the future.  
+
+%%%
 Training function
 
 function [net]=TLCnet(X,Y,nl,m,c)
@@ -18,11 +26,13 @@ function [Y]=test_TLCnet(net,Xm)
 % Xm:input
 
 
-@@@
-Recently，I submitted a manuscript for CR-PNN. 
-If you're an editor or reviewer, I am very glad of your asking us for password .  Open for dear you only, before its publication.
-You can contact the corresponding author of the article Jing Wang (my tutor, a professor of Institute of Robotics and Intelligent Systems, Xi'an Jiao Tong university. e-mail: wangpele@gmail.com ) or me (Gang Liu,a doctoral student of Institute of Robotics and Intelligent Systems, School of Mechanical Engineering, Xi'an Jiao Tong University.e-mail: lg_7777777@stu.xjtu.edu.cn).
+read the model
 
-PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract. Yet, if you don't want to get these figures, it's OK. The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶   
+Read_PNN
+% read the model
+
+
+@@@
+PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶   (New:https://arxiv.org/abs/2004.03955)
 I hope you keep safe and sound forever. Take care of yourself . When you go out, remember to wear a mask.  (⑉• •⑉)‥♡
        
