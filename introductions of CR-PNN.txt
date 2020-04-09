@@ -1,7 +1,7 @@
 
 Password:C-R PNN_LG_for_AI
 
-To show C-R PNN as soon as possible, we "threw" it in arXiv.
+To show CR-PNN as soon as possible, we "threw" it in arXiv.
 Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG]    (or arXiv:2004.03955v1 [cs.LG] for this version)
 arXiv:   https://arxiv.org/abs/2004.03955
 
