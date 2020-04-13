@@ -7,7 +7,7 @@ E-mail：gangliu.6677@gmail.com, 18954345543@163.com, or lg_7777777@stu.xjtu.edu
 Wechat/微信：18954345543
 
 To show CR-PNN as soon as possible, we "threw" it in arXiv.
-Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG]    (or arXiv:2004.03955v1 [cs.LG] for this version)
+Before it's published in the journal, you can cite as: arXiv:2004.03955 [cs.LG](https://ui.adsabs.harvard.edu/abs/2020arXiv200403955L/exportcitation)
 arXiv:   https://arxiv.org/abs/2004.03955
 
 @@@
