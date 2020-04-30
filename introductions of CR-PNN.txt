@@ -11,7 +11,7 @@ Fourier analysis methodology for a single signal. Gang analysis methodology for 
 
 2. Relation spectrum : Stand alongside the frequency spectrum. http://arxiv.org/abs/2004.11910    [ Submitted to IEEE tbme.]
 
-3. System filters : Stand alongside filters of frequency.  Submitted to arXiv. Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. [Look for journals.]
+3. System filters : Stand alongside filters of frequency.  Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. [Look for journals.]
 
 For these original articles of methodology, even though the paper never be published in journals [wait in arXiv all the time], we only submit it to top journals.
 
