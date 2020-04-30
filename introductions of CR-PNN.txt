@@ -2,6 +2,9 @@
 Password:C-R PNN_LG_for_AI
 
 ----------------Read me: A system analysis methodology: transform method, relation spectrum, and system filter---------
+ 
+Charm of philosophy: Everything happens for a reason——relation spectrum.
+(哲学意义： 万事有因果——因果谱。)
 
 I think it may be likely to stand alongside the Fourier. 
 
@@ -11,15 +14,16 @@ Fourier analysis methodology for a single signal. Gang analysis methodology for 
 
 2. Relation spectrum : Stand alongside the frequency spectrum. http://arxiv.org/abs/2004.11910    [ Submitted to IEEE tbme.]
 
-3. System filters : Stand alongside filters of frequency.  Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. [Look for journals.]
+3. System filters : Stand alongside filters of frequency.  Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. https://www.preprints.org/manuscript/202004.0538/v1 [Look for journals.]
 
 For these original articles of methodology, even though the paper never be published in journals [wait in arXiv all the time], we only submit it to top journals.
 
-If you want to help me famous, to distinguish between other transformations, you can call these:  Gang transform, Gang relation spectrum, and Gang system filter. Thank you very much.  (⑉• •⑉)‥♡
+If you want to help me famous, to distinguish between other transformations, similar to Fourier，you can call these:  Gang transform, Gang relation spectrum, and Gang system filter. Thank you very much.  (⑉• •⑉)‥♡
 ----------------------------------------------------------------------------------------------------------------------------
 Before it's published in the journal, you can cite as：
     1.https://ui.adsabs.harvard.edu/abs/2020arXiv200403955L/exportcitation
     2.https://ui.adsabs.harvard.edu/abs/2020arXiv200411910L/exportcitation
+    3.https://www.preprints.org/manuscript/202004.0538/v1
 
 【Minor mistakes will be  corrected later】
 ----------------------------------------
@@ -28,7 +32,6 @@ If you have some problems about code， please contact me.
 E-mail：gangliu.6677@gmail.com, 18954345543@163.com, or lg_7777777@stu.xjtu.edu.cn
 Wechat/微信：18954345543
 
-To show CR-PNN as soon as possible, we "threw" it in arXiv.
 
 @@@CR-PNN
 PS：To be more rigorous, we corrected little details in fig.2 and the graphic abstract.  The original figures in the paper are also clear, and these errors don't affect my meanings.   (⑅ōᴗō)۶  
