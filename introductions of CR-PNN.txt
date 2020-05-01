@@ -1,6 +1,6 @@
 
 Password:C-R PNN_LG_for_AI
-
+B站讲解视频：https://www.bilibili.com/video/BV1VC4y1W7rQ
 ----------------Read me: A system analysis methodology: transform method, relation spectrum, and system filter---------
  
 Charm of philosophy: Everything happens for a reason——relation spectrum.
