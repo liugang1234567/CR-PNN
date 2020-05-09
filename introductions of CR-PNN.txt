@@ -5,7 +5,8 @@ Highly recommend the video with a technical explanation :
 
 YouTube: https://youtu.be/89AsZnAn-CI
 
-B站讲解视频：https://www.bilibili.com/video/BV1VC4y1W7rQ
+个人名义发布教程给大家参考， 下载开源代码的时候记得给up主点一下“星星”哦！（右上角）
+B站讲解视频：https://www.bilibili.com/video/BV1zp4y1971R/
 
 ----------------Read me: A system analysis methodology: transform method, relation spectrum, and system filter---------
  
