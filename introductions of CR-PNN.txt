@@ -19,9 +19,9 @@ Fourier analysis methodology for a single signal. Gang analysis methodology for 
 
 1. Transform method (CR-PNN）：Stand alongside the Fourier Transform.  https://arxiv.org/abs/2004.03955    [ Submitted to IEEE TNNLS.]
 
-2. Relation spectrum : Stand alongside the frequency spectrum. http://arxiv.org/abs/2004.11910    [ Submitted to IEEE tbme.]
+2. Relation spectrum : Stand alongside the frequency spectrum. http://arxiv.org/abs/2004.11910   
 
-3. System filters : Stand alongside filters of frequency.  Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. https://www.preprints.org/manuscript/202004.0538/v1 [Look for journals.]
+3. System filters : Stand alongside filters of frequency.  Title:A novel system analysis methodology: transform method, relation spectrum, and system filter. https://www.preprints.org/manuscript/202004.0538/v1 
 
 For these original articles of methodology, even though the paper never be published in journals [wait in arXiv all the time], we only submit it to top journals.
 
